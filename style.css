@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Palette+Mosaic&family=Roboto+Mono:wght@100&family=Roboto:wght@100&family=STIX+Two+Text&display=swap');
+h1 {color:rgb(112, 3, 3);
+border-width: 2px;
+border-color: rgb(112, 3, 3);
+border-style: dashed;
+font-size: 48px;}
+h2 {color:rgb(53, 6, 73);
+font-size: 32px;}
+p {color:rgb(10, 10, 71)}
+div {color:black}
+
+.p1 {font-family: 'Palette Mosaic', cursive;
+font-size: 24px;
+color: rgb(0, 0, 129);}
+.p2 {font-family: 'Roboto', sans-serif;
+font-size: 24px;
+color: rgb(136, 0, 0);}
+.p3 {font-family: 'Roboto Mono', monospace;
+font-size: 24px;
+color: rgb(63, 0, 35);}
+.p4 {font-family: 'STIX Two Text', serif;
+font-size: 24px;
+color: rgb(0, 138, 11);}
+.p5 {font-family: 'Dancing Script', cursive;
+font-size: 24px;
+color: rgb(0, 68, 68);}
+
+body {background-color: rgb(243, 210, 199);}
